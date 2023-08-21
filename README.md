@@ -4,7 +4,7 @@
 The app is a single-page application that meets the PWA criteria. The app features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application can also function offline.
 
 ## Deployed Application
-
+https://jate-simpletext-0cb0fdbb7b8a.herokuapp.com/
 
 ## JATE screenshot
 ![alt text](jatescr.png)
